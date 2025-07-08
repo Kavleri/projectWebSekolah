@@ -27,7 +27,7 @@ Lihat file [`LICENSE`](LICENSE) untuk detail hukum selengkapnya.
 
 Untuk pertanyaan, diskusi kolaborasi, atau permintaan terkait penggunaan kode ini, silakan hubungi kami:
 
-* **Email Utama (Disarankan untuk Komunikasi Formal):** [kavleri@example.com](mailto:kavleri79@gmail.com)
+* **Email Utama (Disarankan untuk Komunikasi Formal):** [Email@Kelompok.com](mailto:kavleri79@gmail.com)
 * **WhatsApp (untuk Pesan Cepat):** [Kirim Pesan WhatsApp](https://wa.me/6288212005990?text=Halo,%20saya%20tertarik%20untuk%20berdiskusi%20mengenai%20proyek%20web%20sekolah%20Anda!)
 
 ---

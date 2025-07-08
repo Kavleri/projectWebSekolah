@@ -1,5 +1,3 @@
----
-
 ## 👨‍💻 Kontributor
 
 Proyek ini adalah hasil kolaborasi dari tim pengembang yang berdedikasi:

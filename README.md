@@ -4,7 +4,7 @@ Proyek ini adalah hasil kolaborasi dari tim pengembang yang berdedikasi:
 
 * **Kavleri** - [GitHub Profile](https://github.com/Kavleri)
 * **RakaDr** - [GitHub Profile](https://github.com/RakaDr)
-* *(Tambahkan nama anggota tim lain jika ada, dengan tautan ke profil GitHub mereka)*
+* **ShifaFzyh** - [GitHub Profile](https://github.com/ShifaFzyh)
 
 ---
 
@@ -27,7 +27,7 @@ Lihat file [`LICENSE`](LICENSE) untuk detail hukum selengkapnya.
 
 Untuk pertanyaan, diskusi kolaborasi, atau permintaan terkait penggunaan kode ini, silakan hubungi kami:
 
-* **Email Utama (Disarankan untuk Komunikasi Formal):** [kavleri@example.com](mailto:kavleri79@gmail.com) *(Ganti dengan alamat email tim atau kontak utama Anda)*
-* **WhatsApp (untuk Pesan Cepat):** [Kirim Pesan WhatsApp](https://wa.me/6285691753134?text=Halo,%20saya%20tertarik%20untuk%20berdiskusi%20mengenai%20proyek%20web%20sekolah%20Anda!) *(Ganti nomor dan pesan)*
+* **Email Utama (Disarankan untuk Komunikasi Formal):** [kavleri@example.com](mailto:kavleri79@gmail.com)
+* **WhatsApp (untuk Pesan Cepat):** [Kirim Pesan WhatsApp](https://wa.me/6285691753134?text=Halo,%20saya%20tertarik%20untuk%20berdiskusi%20mengenai%20proyek%20web%20sekolah%20Anda!)
 
 ---

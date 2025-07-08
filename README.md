@@ -1,4 +1,4 @@
-## 👨‍💻 Kontributor
+## Kontributor
 
 Proyek ini adalah hasil kolaborasi dari tim pengembang yang berdedikasi:
 
@@ -8,7 +8,7 @@ Proyek ini adalah hasil kolaborasi dari tim pengembang yang berdedikasi:
 
 ---
 
-## 🔒 Lisensi & Kebijakan Penggunaan Kode
+## Lisensi & Kebijakan Penggunaan Kode
 
 Proyek **Web Sekolah** ini adalah **karya akademik** yang dibuat sebagai bagian dari tugas perkuliahan. Hak cipta penuh atas *source code* dan seluruh aset digital dalam repositori ini sepenuhnya dimiliki oleh tim pengembang dan dilindungi oleh undang-undang hak cipta.
 
@@ -23,7 +23,7 @@ Lihat file [`LICENSE`](LICENSE) untuk detail hukum selengkapnya.
 
 ---
 
-## 📧 Kontak
+## Kontak
 
 Untuk pertanyaan, diskusi kolaborasi, atau permintaan terkait penggunaan kode ini, silakan hubungi kami:
 

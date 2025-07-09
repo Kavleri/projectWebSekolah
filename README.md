@@ -5,7 +5,7 @@ Proyek ini adalah hasil kolaborasi dari tim pengembang yang berdedikasi:
 * **Kavleri** - [GitHub Profile](https://github.com/Kavleri)
 * **RakaDr** - [GitHub Profile](https://github.com/RakaDr)
 * **ShifaFzyh** - [GitHub Profile](https://github.com/ShifaFzyh)
-
+* **Warlana1451** - [GitHub Profile](https://github.com/Warlana1451)
 ---
 
 ## Lisensi & Kebijakan Penggunaan Kode
